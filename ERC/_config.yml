@@ -3,8 +3,8 @@ title: ERC
 subtitle: 
 email: f20181021@goa.bits-pilani.ac.in  
 description: The Robotics Club of BITS GOA 
-baseurl: "/ERC"
-url: # the base hostname & protocol for your site
+baseurl: 
+url: 
 author:
 street_address: BITS Pilani K K Birla Goa Campus
 city: Sancoale
