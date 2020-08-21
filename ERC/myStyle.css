@@ -1,0 +1,27 @@
+/* myStyle.css */
+body {
+ background-color: #221F3E;
+ color: #FFFFFF;
+}
+#head {
+font-size: 90cm; 
+color: white;
+ text-align: center;
+ font: italic 200% fantasy;
+}
+#para1 {
+ background-color:navy;
+ color: white;
+ text-align: center;
+ border: 3px groove #FFFF33;
+}
+
+#one{
+    text-align: left;
+    font-size: large;
+    color: white;
+}
+
+#MIHIRKULKARNI {
+
+}
