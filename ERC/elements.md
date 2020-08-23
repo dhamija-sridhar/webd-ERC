@@ -61,7 +61,7 @@ image: gp.jpeg
 <hr class="major" />
 
 <!-- Elements -->
-<h2 id="elements">Former Core members:</h2>
+<h2 id="elements">Previous CoCo AY 2019-20</h2>
 <div class="row 200%">
 	<div class="6u 12u$(medium)">
 

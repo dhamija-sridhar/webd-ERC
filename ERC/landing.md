@@ -94,7 +94,7 @@ nav-menu: true
 		<a href="https://github.com/ERC-BPGC" class="image">
 			<img src="led.jpeg" alt="" data-position="25% 25%" />
 		</a>
-		<div class="content">
+	<!--	<div class="content">
 			<div class="inner">
 				<header class="major">
 					<h3>LED Globe</h3>
@@ -107,7 +107,8 @@ nav-menu: true
 					<li><a href="archive.html" class="button">Check out the Archives as well!!</a></li>
 				</ul>
 			</div>
-		</div>		
+		</div>	
+		-->	
 	</section>
 </section>
 </div>
